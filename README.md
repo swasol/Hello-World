@@ -1,1 +1,34 @@
 # Hello-World
+
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Моя html страничка</title>
+	</head>
+
+	<body>
+		1) Привет <a href="http://google.com">мир</a>!<br/>
+		2) Привет <strong>мир</strong>!<br/>
+		3) Привет <em>мир</em>!<br/>
+		4) Привет мир!<br/>
+		5) <h3>Привет мир!</h3>
+		6) <img src="http://img0.liveinternet.ru/images/attach/c/6/89/683/89683802_large_priv.JPG" width="150 px"/><br/>
+		7) <div>Привет мир</div>
+		8) 
+			<table border="3">
+			<tr><td>1</td><td>Привет</td><td>мир</td><td>!</td></tr>
+			<tr><td>2</td><td>Привет</td><td>мир</td><td>!</td></tr>
+			<tr><td>3</td><td>Привет</td><td>мир</td><td>!</td></tr>
+			<tr><td>4</td><td>Привет</td><td>мир</td><td>!</td></tr>
+			<tr><td>5</td><td>Привет</td><td>мир</td><td>!</td></tr>
+			</table>
+		9) <input value="Standart value!"/>	<br/>
+		10)<textarea></textarea><br/>
+		11) <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="328" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
+	</body>
+	
+
+
+</html>
